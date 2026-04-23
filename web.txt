@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story Reading English Classes for Kids & Teens</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #4a90e2;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header img {
+      width: 120px;
+      height: auto;
+      margin-bottom: 10px;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin: 0;
+    }
+    section {
+      padding: 2rem 1rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #4a90e2;
+      border-bottom: 3px solid #f5a623;
+      display: inline-block;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li::before {
+      content: "🌟 ";
+    }
+    .cta {
+      background-color: #7ed321;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    .cta a {
+      background-color: #f5a623;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    .cta a:hover {
+      background-color: #d48806;
+    }
+    .social {
+      margin-top: 1rem;
+    }
+    .social a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+    }
+    footer {
+      background-color: #4a90e2;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Replace logo.png with your actual logo file -->
+    <img src="logo.png" alt="Your English Classes Logo">
+    <h1>Story Reading English Classes for Kids & Teens</h1>
+    <p>(Ages 5–17)</p>
+    <p>Bringing English to Life Through the Magic of Stories!</p>
+  </header>
+
+  <section>
+    <h2>About the Classes</h2>
+    <ul>
+      <li>Age-appropriate lessons tailored for each stage.</li>
+      <li>Interactive activities that make learning fun.</li>
+      <li>Focus on reading, writing, speaking, and listening.</li>
+      <li>Supportive environment that builds confidence.</li>
+      <li>✨ Online classes available for flexible learning at home.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Learning Through Story Reading</h2>
+    <p>Our English classes are built around the joy of stories! Each lesson uses engaging tales to help students explore language naturally — improving vocabulary, comprehension, and expression while sparking imagination.</p>
+    <ul>
+      <li>📖 Fun, age-appropriate stories that capture attention.</li>
+      <li>🗣️ Encourages discussion and creative thinking.</li>
+      <li>✍️ Builds reading and writing confidence through storytelling.</li>
+      <li>🎭 Interactive activities that bring stories to life.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why Parents Choose Us</h2>
+    <ul>
+      <li>Experienced and caring instructor.</li>
+      <li>Small group sizes for personal attention.</li>
+      <li>Fun, friendly atmosphere that motivates students.</li>
+      <li>Proven methods to help children excel.</li>
+      <li>Convenient online option for busy families.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Online Classes</h2>
+    <ul>
+      <li>💻 Live virtual lessons with skilled teachers.</li>
+      <li>🏠 Learn comfortably from home.</li>
+      <li>📱 Easy to join from any device.</li>
+    </ul>
+  </section>
+
+  <section class="cta">
+    <h2>Get in Touch!</h2>
+    <p>Find out more about our story reading English classes — in-person or online!</p>
+    <p>
+      📞 Call us: <a href="tel:+60123456789" style="color:white;">+60 12-345 6789</a><br>
+      ✉️ Email: <a href="mailto:your-email@example.com" style="color:white;">your-email@example.com</a><br>
+      🌐 Visit: <a href="https://yourwebsite.com" style="color:white;">yourwebsite.com</a>
+    </p>
+    <a href="mailto:your-email@example.com">Contact Us Today!</a>
+
+    <!-- Social media placeholder -->
+    <div class="social">
+      <p>Follow us (coming soon):</p>
+      <a href="#">Facebook</a>
+      <a href="#">Instagram</a>
+      <a href="#">WhatsApp</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Your English Classes. All rights reserved.</p>
+  </footer>
+</body>
+</html>
